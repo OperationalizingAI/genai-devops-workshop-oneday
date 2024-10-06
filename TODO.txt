@@ -1,0 +1,10 @@
+- Fix Lesson - Error File Logger
+- Example PR summarize
+
+- Refine Code assistants
+- Add tools - llm , fabric
+- Comfy UI ?
+- HelixML as alternative to run it
+- Instruct for training models
+- Fix Load/Dotenv
+- RAG / remove graph DB ?

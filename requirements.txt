@@ -1,0 +1,7 @@
+ipykernel # Needed for Jupyter notebooks
+nbmake # For Jupyter notebook testing
+pytest # For Python testing
+pytest-xdist # For parallel testing
+pickleshare # For storing data in Jupyter Notebooks
+inspect-ai # For evals and use with the inspect vscode extension
+ipywidgets # For using inspect inside of Jupyter Notebooks

@@ -1,0 +1,4 @@
+{
+    "notebook.output.wordWrap": true, // Enable word wrap in Jupyter Notebooks
+    "window.menuBarVisibility" : "default", // Enable menu in Codespaces
+}

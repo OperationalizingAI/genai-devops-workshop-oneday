@@ -1,0 +1,37 @@
+Day 1
+LLMs and prompting (1,5h)
+We get started with connecting to an LLM and sending it prompts.
+llms (local , cloud) & basic prompting
+advanced prompting: Few show prompting, CoT, ToT
+LLM Frameworks: llamindex, langchain, …
+
+Testing: (1,5h)
+Just as in traditional software development, we need to test our application.
+building evals
+explore llm as a judge, vs manual testing
+prompt refactoring and rewriting
+
+RAG & Graph databases (2h)
+We then connect our llms with our own data sources and show we can improve the results and reduce hallucinations.
+understanding Search / Vector databases
+explore different embedding models
+show the importance of Chunking , Loaders strategies
+How to improve results with Re-ranking
+use GraphRAG as an additional knowledge source
+
+genAI Infra: (0.5h)
+Once we finished our app, we are ready to deploy it and explore the required infra to run it.
+look at hosting options
+explain the different nference speed factors
+how to do model, prompt, app versioning
+use of proxies such as llm proxy , llmlite
+intelligent llm routing
+introduce caching / embeddings
+look at different costs models
+
+Security & Operations: (1.5h)
+In production we need to monitor our application and protect it from attacks.
+metrics that matter
+how does observability fit in
+provide guardrails to generation
+anticipate and protect against prompt injection

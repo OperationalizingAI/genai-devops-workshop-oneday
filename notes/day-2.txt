@@ -1,0 +1,32 @@
+Day 2
+AI Functions: (1h)
+We use the output of llms as input for our code and have the llm call our code.
+JSON format, pydantic, retries, json models
+function calling
+reasoning methods: react and other patterns
+
+Vision Language Models: (0.5h)
+We go beyond the input as text by using images and video as input.
+explain multi modal models
+usage with ui automation and generation
+extend it to desktop automation
+
+Agents: (2h)
+While LLMS are focused on output, agents are focused on action. Agentic workflows are the future to improve llms and our workflows.
+agent identities and hierarchies
+frameworks overview: Langgraph, CrewAI, autogen
+different memory strategies
+agentic usage patterns
+
+Code Assistants: (1.5h)
+Code assistants are a mix of llms and agents. They are focused on code generation and execution.
+how is code generation different
+provide code execution sandboxes
+agentic IDEs : ex. aider , cursor, gptscript
+coding context patterns
+
+Autonomous Agents: (1h)
+How far or how close are we from full autonomous agentic software developers ?
+explanation of SWE benchmark
+overview SWE-agents - Devin, OpenDevin, …
+relation with the ironies of automation
